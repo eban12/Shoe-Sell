@@ -1,0 +1,130 @@
+.navbar {
+  background-color: #16304e;
+}
+
+.btn {
+  background-color: #16304e;
+  border-color: #16304e;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #1c324b;
+  border-color: #1c324b;
+}
+
+.btn-primary {
+  border-color: #0a7c6b;
+}
+
+.btn-info {
+  background-color: #3e4e88;
+  border-color: #3e4e88;
+}
+
+.btn-info:hover {
+  background-color: #44507c;
+}
+
+.btn-outline-info {
+  color: #3e4e88;
+  border-color: #3e4e88;
+  background-color: #fff;
+}
+
+.btn-outline-info:hover {
+  background-color: #44507c;
+  color: #fff;
+}
+
+.carousel {
+  width: 70%;
+  height: auto;
+}
+
+.carousel img {
+  max-height: 500px;
+  width: auto;
+}
+
+.card img {
+  height: 250px;
+}
+
+.form-container {
+  max-width: 450px;
+  margin: auto;
+  padding-top: 40px;
+  padding-bottom: 100px;
+}
+
+.about {
+  padding-top: 40px;
+}
+
+.about img {
+  border-radius: 10px;
+}
+
+form .btn {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+footer.jumbotron {
+  background-color: #16304e;
+  color: #fff;
+}
+
+footer a {
+  color: #bfbbf0;
+}
+
+footer a:hover {
+  color: #7971ea;
+}
+
+.copy-right {
+  color: gray;
+}
+
+select {
+  font-family: "FontAwesome";
+}
+
+.checkout p {
+  font-weight: 700;
+}
+
+.total p {
+  line-height: 10px;
+}
+
+.title {
+  text-transform: uppercase;
+  color: rgb(158, 158, 158);
+  font-size: 15px;
+}
+
+.sub {
+  color: rgb(168, 168, 168);
+}
+
+label.sub {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+span.sub {
+  font-weight: 400;
+}
+
+.order img {
+  width: 50px;
+}
+
+.order {
+  border-bottom: 1px solid rgba(214, 213, 213, 0.753);
+}
